@@ -2,7 +2,8 @@
 
 <h2> Current Projects/Courses: </h2>
 - Active Directory Home Lab <br>
-- CompTIA Cloud+ <br>
+- Create VM in the Cloud and Deploy a Web Server <br>
+- Securing SQL Databases in the Cloud <br>
 
 <h2> Certifications: </h2>
 
